@@ -17,6 +17,6 @@ tmp = str(element)
 tmp_2 = re.split(r'\s+|<.*?>',tmp)
 abandon ={"window.adsbygoogle","||","[]).push({})",'','(adsbygoogle','=','[]).push({});','[',']'}
 read =[title]+[i for i in tmp_2 if i not in abandon]
-with open(r"C:\Users\charl\OneDrive\桌面\python\爬蟲\book.txt",'w',encoding = 'utf-8') as fh:
+with open(r"YOUR PATH.book.txt",'w',encoding = 'utf-8') as fh:
     for sentence in read:
         fh.write(sentence + '\n')
