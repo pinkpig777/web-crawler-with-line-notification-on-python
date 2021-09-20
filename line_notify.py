@@ -17,5 +17,5 @@ def lineNotifyMessage(token, msg):
     return r.status_code
 	
 message = ''
-token = 'SQGU8rhDkJ7FLiw63YZwq5KxR42HssydjR32uV6THou'
+token = 'YOUR TOKEN'
 lineNotifyMessage(token, message)
