@@ -12,14 +12,15 @@ In past day, I had troubled with not knowing when did the novel had uploaded its
 simple program to automatically check whether the website had uploaded or not.
 
 ## Library or application I use
-Python
-BeautifulSoup
-Selenium
-Sys
-Re
-Requests
-Line Notification Bot
+* Python
+* BeautifulSoup
+* Selenium
+* Sys
+* Re
+* Requests
+* Line Notification Bot
 
 ## How to Use
-change the website to whatever books you want to read(need to be on uukanshu.com) and get your own line notification token,
-make sure the chrome driver is up to date. 
+* Change the website to whatever books you want to read(need to be on uukanshu.com) 
+* Get your own line notification token,
+* Make sure the chrome driver is up to date. 
