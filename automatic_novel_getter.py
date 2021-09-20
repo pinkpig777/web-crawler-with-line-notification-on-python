@@ -62,7 +62,4 @@ def main():
     new_url = autoCheck(url)
     textParsing(new_url)
  
-if __name__ == '__main__':
-    main()
-        
     
