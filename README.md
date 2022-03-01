@@ -24,3 +24,5 @@ simple program to automatically check whether the website had uploaded or not.
 * Change the website to whatever books you want to read(need to be on uukanshu.com) 
 * Get your own line notification token,
 * Make sure the chrome driver is up to date. 
+## Demo
+![image](https://user-images.githubusercontent.com/63622191/156187776-0b10ca97-d0a3-49f3-b315-5dfcc630796b.png)
