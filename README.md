@@ -11,7 +11,7 @@ This project is a simple try on selenium and beautifulsoup, in order to get the 
 In past day, I had troubled with not knowing when did the novel had uploaded its latest chapter, so I hoped to develope a 
 simple program to automatically check whether the website had uploaded or not.
 
-## Library or application I use
+## Dependencies
 * Python
 * BeautifulSoup
 * Selenium
